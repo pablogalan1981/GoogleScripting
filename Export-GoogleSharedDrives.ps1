@@ -1,12 +1,11 @@
 <#
 
 .SYNOPSIS
-    This script to export the Google Shared Drives information 
+    Script to export the Google Shared Drives information using GAMADV-XTD tool 
 
 .DESCRIPTION
-    Before running this script you need to install the GAM and GAMADV-XTD tools to export the data from your Google organization.
-    This script will export the Google Shared Drives info to a CSV file. The CSV file will have these columns:
-    
+    Before running this script you need to install the GAM and GAMADV-XTD tools to export the Google Shared Drives info from your Google organization.
+    This script will process the data retrieved by GAMADV-XTD tool and will format it to a CSV file. The CSV file will have these columns:    
     TeamDriveId,TeamName,ChannelNames,TeamType,Owners,Members,Roles
 
     Requirements:
