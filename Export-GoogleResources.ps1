@@ -12,11 +12,12 @@
     1. Download and install GAM tool from https://github.com/jay0lee/GAM/releases
 
 .NOTES
-	Author		Pablo Galan Sabugo <pablogalan1981@gmail.com> 
-	Date		Nov/2018
-	Disclaimer: 	This script is provided 'AS IS'. No warrantee is provided either expressed or implied. 
-                        BitTitan cannot be held responsible for any misuse of the script.
-        Version: 1.1
+    Author	    Pablo Galan Sabugo <pablogalan1981@gmail.com> 
+    Date	    Nov/2018
+    Disclaimer:     This script is provided 'AS IS'. No warrantee is provided either expressed or implied. 
+    Version: 1.1
+    Change log:
+    1.0 - Intitial Draft
 #>
 
 
